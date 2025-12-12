@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-12 21:40+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../creator/nodes/index.rst:3 ../../creator/nodes/index.rst:49
+#: bf9a5be9bc9a488ca4c9cdd93f0e039b
+msgid "Nodes"
+msgstr ""
+
+#: ../../creator/nodes/index.rst:5 0f872aaa964f46379a5fbd73e5a82388
+msgid ""
+"Inochi2D is based of a concept called a `Scene Graph "
+"<https://en.wikipedia.org/wiki/Scene_graph>`__."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:15 23e9f92b1b5b417db77d7544ea604104
+msgid ""
+"If you've used a modern game engine such as Godot, Unity, Unreal Engine "
+"or 3D modeling software such as Blender you may already be familiar with "
+"the concept!"
+msgstr ""
+
+#: ../../creator/nodes/index.rst:17 26bc17ebb54947c3834f3c1dae2c4fcf
+msgid "Think of Godot Nodes, or Unity GameObjects as the scene graph."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:25 857faf1523384740932fe83d6285369b
+msgid ""
+"The scene graph is accessed via the Nodes panel, which displays them in a"
+" tree view."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:27 ac906a438e854c77b42e23a2a6904bae
+msgid ""
+"Each item in the tree is called *a Node*, each Node has a type on top of "
+"that."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:29 4652f01b841d42df85c65d98f5ca2b84
+msgid ""
+"Every node has the concept of a Transform in common. A transform contains"
+" information about the position, rotation, scale and sorting index of the"
+" node."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:31 e6044dcf129d46a88ede90f8683dc1c4
+msgid ""
+"A node which is attached to another node is called a *child Node*, and "
+"the Node which the child is attached to is called the *parent Node*."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:33 7d85c81d79464c9a913d6866e45fca2f
+msgid ""
+"Child Nodes inherit the position, rotation, scale and sorting index of "
+"their parents, which means if a parent nodes moves around, so will its "
+"children move around relative to it."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:35 cb87702d806445f5b3fb5ff638fafb71
+msgid "The icon that a node has is used to denote its type to you."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:43 62ba8da87c824aad8f56a14d102e6cbc
+msgid ""
+"The properties of a Node are accessed via the Inspector panel, depending "
+"on the type of the Node, the items in the Inspector panel will change."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:45 53ad08195bf74f13b20f4b0131245bbd
+msgid ""
+"The Inspector Panel's contents are divided in to sections which can be "
+"collapsed by clicking their header, Each section contains settings for a "
+"specific subtype of that Node."
+msgstr ""
+
+#: ../../creator/nodes/index.rst:47 9b87d40eeb5a464484ad81210a6c03fc
+msgid ""
+"For example, a *Part* Node is based on the *Drawable* Node type, which in"
+" turn is based on the *Node* type. As such you will see properties for "
+"Node (Transform), Drawable and Part as sections."
+msgstr ""
+

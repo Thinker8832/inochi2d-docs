@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Luna the Foxgirl
+# This file is distributed under the same license as the Inochi2D package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Inochi2D \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-12-12 21:40+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: ../../creator/nodes/puppet.rst:3 5e52a8116c7544c9bc11a9e272d21fe0
+msgid "Puppet"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:9 1b1fcfa793584bcdbbe7116f88518724
+msgid ""
+"The puppet node is a special node that you can not move. It contains "
+"properties for model information, model-wide settings such as physics "
+"system options and rendering options."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:14 bea1772dc96345f9879b259b8486ed76
+msgid "General Info & Licensing"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:16 e818f706c38e4edfa9edb642c049f8b6
+msgid ""
+"These sections stores general information that most software reading the "
+"model will show to the user."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:18 676816dacd284a67acabcfe5319bbd9e
+msgid ""
+"As for licensing, note that unlike competing software, we do not claim "
+"any form of license or ownership over the models produced with our "
+"software."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:20 81d107fef8734c3e948289dad5863245
+msgid ""
+"As such you are free to specify any license you want and have to enforce "
+"said license yourself."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:25 4c1d4ad505b74658bdd4fdbcf3315337
+msgid "Physics Globals"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:27 aef8062eafc94b81bee3cbc34b5f3f4e
+msgid "This section stores settings related to the physics handling of the model"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:30 c32aa928516445568d225a218153eee5
+msgid "Pixels per meter"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:32 9c204c59b55a460289d99fa59c2650a6
+msgid ""
+"How many pixels count as 1 meter in the physics system. You can adjust "
+"this value to match the physics to the canon height of the character, or "
+"otherwise to your liking."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:35 6624cbb225fa425c94b907c38ff33916
+msgid "Gravity"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:37 11fb735a88734dfd985bfcabbf096811
+msgid ""
+"How strong the gravity is for the model, by default it uses Earth gravity"
+" of 9.8 m/s squared."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:42 2829ce08375546b3b377016ff2a89bb9
+msgid "Rendering Settings"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:44 f23e3f19b86149b7b991bee51ee1f105
+msgid "This section stores settings related to the rendering of the model."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:47 fdabbb20f9394ad4b5bc9bae30fdb0b7
+msgid "Use Point Filtering"
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:49 f65ff560ffd54a0d9a5c37885def6b31
+msgid ""
+"If you're making a pixel art model, this setting will force the rendering"
+" to preserve the hard edges of pixels. This will allow you to save "
+"texture memory by requiring a lot less scaling of your model."
+msgstr ""
+
+#: ../../creator/nodes/puppet.rst:51 5efe5d6654284bc798ea17208c363b80
+msgid ""
+"Competing packages such as Live2D normally requires a ~5000% (50x) scale-"
+"up of your model to look good, Inochi2D can get away with 200% (2x) if "
+"you turn this option on."
+msgstr ""
+
