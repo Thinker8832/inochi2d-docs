@@ -30,7 +30,7 @@ msgid ""
 "The following system requirements have to be met before running Inochi "
 "Creator."
 msgstr ""
-"想要在你的電腦上使用Inochi Creator，你的電腦配置必須符合以下列表："
+"想要在你的電腦上使用 Inochi Creator，你的電腦配置必須符合以下列表："
 
 #: ../../creator/getting-started.rst:15 ad5e407708054e40acbc17cffb8ab3b3
 msgid "Minimum"
@@ -50,7 +50,7 @@ msgstr "x86_64 或 ARM64 CPU [#req_cpu]_"
 
 #: ../../creator/getting-started.rst:19 7b9e716bc3934485b15f3700eeb4f216
 msgid "Recent x86_64 or ARM64 CPU [#req_cpu]_"
-msgstr "近期推出的x86_64 或 ARM64 CPU [#req_cpu]_"
+msgstr "近期推出的 x86_64 或 ARM64 CPU [#req_cpu]_"
 
 #: ../../creator/getting-started.rst:20 5d9d28efde9e47d99769ff0192120d81
 msgid "Memory"
@@ -82,11 +82,11 @@ msgstr "圖形處理器(GPU)"
 
 #: ../../creator/getting-started.rst:27 27338195c1a2416ca6a18c5498412741
 msgid "OpenGL 3.2 Support [#req_gl]_, 512 MB VRAM"
-msgstr "支援OpenGL 3.2 [#req_gl]_ 並包含 512MB VRAM"
+msgstr "支援 OpenGL 3.2 [#req_gl]_ 並包含 512MB VRAM"
 
 #: ../../creator/getting-started.rst:28 23a89e25a3f74338a15d61f9cf21c9b1
 msgid "OpenGL 3.2 Support [#req_gl]_, 1 GB VRAM or more"
-msgstr "支援OpenGL 3.2 [#req_gl]_ 並包含 1GB以上 VRAM"
+msgstr "支援 OpenGL 3.2 [#req_gl]_ 並包含 1GB以上 VRAM"
 
 #: ../../creator/getting-started.rst:29 e755f9fa230e4e429770c1184ddff9d6
 msgid "Display Resolution (Pixels)"
@@ -105,7 +105,7 @@ msgid ""
 "Inochi Creator does not support 32 bit systems currently to reduce the "
 "maintenance burden."
 msgstr ""
-"因人力有限， Inochi Creator 目前不支援 32-bit 系統。"
+"因人力有限，Inochi Creator 目前不支援 32-bit 系統。"
 
 #: ../../creator/getting-started.rst:39 e60351194b844d6b854b3383fcf7b9cd
 msgid "Downloading Inochi Creator"
@@ -121,7 +121,7 @@ msgid ""
 msgstr ""
 "Inochi Creator 有下列兩種版本：**穩定版本** 及 **Nightly 版本**。"
 "穩定版本有較好的穩定性，但它缺乏最新的功能。"
-" Nightly 版本依據每一天的最新的程式碼建立而成，具有最新的功能，但同時也會有較多的 Bug 。"
+"Nightly 版本依據每一天的最新的程式碼建立而成，具有最新的功能，但同時也會有較多的 Bug。"
 
 #: ../../creator/getting-started.rst:50 5955934f94ea4d148aea83c2d4a816f5
 msgid "**Stable** is available to download on:"
@@ -170,8 +170,8 @@ msgid ""
 "unless you know what you're doing. Nightly builds are likely to crash and"
 " can corrupt your files in the process!"
 msgstr ""
-"Nightly版本不穩定，除非你可以承擔較多的Bug，否則我們不建議你使用Nightly版本。"
-"Nightly版本很有可能在運作時崩潰並損壞你的檔案，請特別留意！"
+"Nightly 版本不穩定，除非你可以承擔較多的 Bug，否則我們不建議你使用 Nightly 版本。"
+"Nightly 版本很有可能在運作時崩潰並損壞你的檔案，請特別留意！"
 
 #: ../../creator/getting-started.rst:68 83f66b99ddeb413baf82bdc39269fd29
 msgid "Make frequent backups!"
@@ -179,7 +179,7 @@ msgstr "記得常常存檔！"
 
 #: ../../creator/getting-started.rst:73 13e240be977249dba7c75a9cfe51ab48
 msgid "First Time Setup"
-msgstr "設定Inochi Creator"
+msgstr "設定 Inochi Creator"
 
 #: ../../creator/getting-started.rst:75 103e6d79efc34d768a0e0f0b5de27f8c
 msgid ""
@@ -187,7 +187,7 @@ msgid ""
 "can set some basic settings here like Color Theme, Language and UI "
 "Scaling [#ui_nomac]_."
 msgstr ""
-"第一次開啟 Inochi Creator 時，會有一個歡迎視窗，你可以在這裡設定主題、語言及UI大小。"
+"第一次開啟 Inochi Creator 時，會有一個歡迎視窗，你可以在這裡設定主題、語言及 UI 大小。"
 
 #: ../../creator/getting-started.rst:83 04ec7e51a66a44189ef57e742b1bd4a8
 msgid ""
@@ -249,11 +249,11 @@ msgstr "AMD Radeon HD 2000 系列及以上 (marketed as TeraScale 1)"
 
 #: ../../creator/getting-started.rst:107 62e4de6bb1d84c118f2d8be55a6f03ef
 msgid "Apple Silicon M1 or later (OpenGL 3.1 with required extensions)"
-msgstr "Apple Silicon M1 系列及以上 (OpenGL 3.1 )"
+msgstr "Apple Silicon M1 系列及以上 (OpenGL 3.1 及必要的擴充套件)"
 
 #: ../../creator/getting-started.rst:109 d2acdade137d4247bb41780256c8f1fe
 msgid "VRAM requirements depend on the size of the model and texture count."
-msgstr "VRAM需求依據你的模型細緻度與材質而定。"
+msgstr "VRAM 需求依據你的模型細緻度與材質而定。"
 
 #: ../../creator/getting-started.rst:111 6be61ff1d68d494c906ee363cd177d47
 msgid "*You will not see the UI scaling option on macOS*"
@@ -265,5 +265,5 @@ msgid ""
 "systems running macOS, To change the UI Scaling, open the system settings"
 " and change the UI scaling there.*"
 msgstr ""
-"這是有目的的。在macOS上，UI縮放是被作業系統所控制的。欲縮放UI，請開啟系統設定並修改系統設定。"
+"這是有目的的。在 macOS 上，UI 縮放是被作業系統所控制的。欲縮放 UI，請開啟系統設定並修改系統設定。"
 

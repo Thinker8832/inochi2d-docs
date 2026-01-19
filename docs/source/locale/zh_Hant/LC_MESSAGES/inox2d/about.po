@@ -19,11 +19,12 @@ msgstr ""
 
 #: ../../inox2d/about.rst:3 09920dbe11ca47da9670e1885deae28e
 msgid "About Inox2D"
-msgstr ""
+msgstr "關於 Inox2D"
 
 #: ../../inox2d/about.rst:5 e6e6f776dfc445e0bc5ce83c0518c96f
 msgid ""
 "Inox2D is the official Rust implementation of Inochi2D, meant to ease the"
 " usage of Inochi2D in Rust applications as well as webassembly workloads."
 msgstr ""
+"Inox2D 為官方推出的 Rust 實作版本，讓開發者可以更輕鬆的在 Rust 及 Webassembly 環境中整合 Inochi2D。"
 

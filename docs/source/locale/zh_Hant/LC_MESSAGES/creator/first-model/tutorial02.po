@@ -86,7 +86,7 @@ msgid ""
 " the node tree. We should probably rename it so that it's easier to to "
 "know what it does at a glance."
 msgstr ""
-"當我們新增完節點之後，你會看到它在模型中的名字為\\ "未命名 節點"\\。"
+"當我們新增完節點之後，你會看到它在模型中的名字為\"未命名 節點\"。"
 "我們應該重新命名它，以便我們在之後製作時知道它代表什麼。"
 
 #: ../../creator/first-model/tutorial02.rst:52 b3491299ce8d48738ca74accd2b152f6

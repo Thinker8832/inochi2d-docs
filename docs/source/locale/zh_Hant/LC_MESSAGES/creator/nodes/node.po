@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../creator/nodes/node.rst:3 5da992946eb3492c85cb226a4aef878f
 msgid "Node"
-msgstr ""
+msgstr "節點"
 
 #: ../../creator/nodes/node.rst:9 dc9e154ce5fe471b8607a69cede8f7b7
 msgid ""

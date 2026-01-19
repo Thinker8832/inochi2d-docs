@@ -68,8 +68,7 @@ msgid ""
 "All the shadow layers in the PSD are just bundled on to each other, so "
 "shadows cast shadows on shadows. We'll fix that in the coming chapters!"
 msgstr ""
-"因為在 PSD 中的所有陰影圖層都被綁定在一起了，所以陰影在陰影上投影出陰影。"
-"別著急！我們會在之後的教學中解決它。"
+"因為目前 PSD 裡的所有陰影圖層只是單純地堆疊在一起，導致陰影會重疊在陰影上。我們會在後續的章節中解決這個問題！"
 
 #: ../../creator/first-model/tutorial01.rst:44 e2241172ad9e436b8973c8dfedfea194
 msgid "Saving and Loading a Model"

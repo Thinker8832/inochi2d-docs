@@ -20,5 +20,5 @@ msgstr ""
 #: ../../inochi2d/api/index.rst:3 ../../inochi2d/api/index.rst:5
 #: 1792adec629f4d0eb1b39df8b83acb92
 msgid "API Reference"
-msgstr ""
+msgstr "API 說明"
 

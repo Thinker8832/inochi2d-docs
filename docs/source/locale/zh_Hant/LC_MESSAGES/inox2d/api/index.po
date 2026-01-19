@@ -20,5 +20,5 @@ msgstr ""
 #: ../../inox2d/api/index.rst:3 ../../inox2d/api/index.rst:5
 #: 5295ff75887f4c6fac8f37352a1c2695
 msgid "API Reference"
-msgstr ""
+msgstr "API 說明"
 
