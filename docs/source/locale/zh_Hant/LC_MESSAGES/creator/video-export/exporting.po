@@ -147,34 +147,34 @@ msgstr "鎖定影格率到動畫影格率"
 msgid ""
 "Disables smoothing of mismatched framerates between video export and "
 "animation framerate."
-msgstr ""
+msgstr "當影片匯出影格率與動畫影格率不符時，停用平滑效果。"
 
 #: ../../creator/video-export/exporting.rst:82 308dff5fe7aa4a30abdbf94eff662bbd
 msgid "Codec"
-msgstr ""
+msgstr "編碼"
 
 #: ../../creator/video-export/exporting.rst:84 00735cdf42bc45af8c0a7371892f17a8
 msgid ""
 "Which video codec to use for export, by default Inochi Creator will try "
 "to automatically infer the codec."
-msgstr ""
+msgstr "設定輸出影片時要使用的影片編碼，Inochi Creator 將會嘗試自動偵測影片編碼作為預設。"
 
 #: ../../creator/video-export/exporting.rst:86 f7646b6837ac436f91024ef1149a2312
 msgid ""
 "Eg. for H.264 video you'll want to export an mp4 file, with the H.264 "
 "codec selected in the list."
-msgstr ""
+msgstr "例如：對於 H.264 影片，你將會將影片輸出為 mp4 檔案，Inochi Session 將會自動偵測 H.264 編碼輸出。"
 
 #: ../../creator/video-export/exporting.rst:97 a775154738984d38ab943b7e92deafdd
 msgid ""
 "The assumptions Inochi Creator makes with the Automatic option may be "
 "wrong!"
-msgstr ""
+msgstr "Inochi Creator 所偵測的影片編碼可能是錯誤的！"
 
 #: ../../creator/video-export/exporting.rst:99 bab92f0a930a4028a779e82daf6d6fe4
 #, python-format
 msgid ""
 "If you want to be 100% sure that Inochi Creator uses the right codec, "
 "please set it from the list!"
-msgstr ""
+msgstr "如果你想要確定 Inochi Creator 使用正確的編碼輸出，請從下拉選單中選擇！"
 
