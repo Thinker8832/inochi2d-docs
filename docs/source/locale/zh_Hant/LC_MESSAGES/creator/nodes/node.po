@@ -25,96 +25,97 @@ msgstr "節點"
 msgid ""
 "The Node is the base Node type which all other Nodes inherit from, it "
 "only stores a Transform."
-msgstr ""
+msgstr "節點是所有其他節點所繼承的基礎節點。它只儲存變換之數據。"
 
 #: ../../creator/nodes/node.rst:11 93ab9a2099b14b76ae2546b605f1ec78
 msgid ""
 "The transform stored by a Node will be inherited by its children. As "
 "such, children's position, rotation, scale and sorting index is relative "
 "to their parent."
-msgstr ""
+msgstr "節點儲存之變換參數將會被其子節點所繼承。因此，子節點之位置、旋轉、縮放及排序索引皆相對於其父節點。"
 
 #: ../../creator/nodes/node.rst:13 77ec71838eea41be92294cd8693ce7f1
 msgid ""
 "A translation of ``0, 0, 0`` will result in the child node being in the "
 "center of its parent node."
-msgstr ""
+msgstr "``0, 0, 0`` 的變形參數將會使子節點在其父節點的中心。"
 
 #: ../../creator/nodes/node.rst:23 05ffd636e16f4e62872505a56754b973
 msgid ""
 "If you put a Node at ``0, 0, 0``, then add a child Node at ``0, 0, 32`` "
 "and rotate the parent around the Y axis, the child node will spin around "
 "its parent!"
-msgstr ""
+msgstr "如果你放入一個位置在\\ ``0, 0, 0``\\的節點，然後新增一個子節點在\\ ``0, 0, 32``\\"
+"，接著沿著 Y 方向轉動父節點，子節點將會以其為中心轉動！"
 
 #: ../../creator/nodes/node.rst:25 d3519fba5d824c09ac366ceb80970132
 msgid "How cool is that? 🦊"
-msgstr ""
+msgstr "酷吧？ 🦊"
 
 #: ../../creator/nodes/node.rst:28 9419baa24f644859ba38c9e46af3577a
 msgid "Translation"
-msgstr ""
+msgstr "移動"
 
 #: ../../creator/nodes/node.rst:30 fbd01b277f02400d837c3f655b3624d6
 msgid ""
 "Translation is a fancy mathematical word for \"position\", the "
 "translation defines where the Node is in 3D space."
-msgstr ""
+msgstr "移動為\"位置\"的數學化說法，定義節點在 3D 空間中的位置。"
 
 #: ../../creator/nodes/node.rst:34 97f99342533d4cb8ad831b99ae2db712
 msgid "Lock to Root Node"
-msgstr ""
+msgstr "鎖定至根節點"
 
 #: ../../creator/nodes/node.rst:36 121e2c4254d54a4cb26590b7148a1103
 msgid ""
 "This option allows the translation, scale and rotation to be independent "
 "of the parent. In this mode the node moves only based on the special root"
 " node of the model."
-msgstr ""
+msgstr "此選項將會使節點的移動、縮放及旋轉從父節點中獨立出來。在此模式下，節點將只依據特殊根節點移動。"
 
 #: ../../creator/nodes/node.rst:38 54ec10943ab9467fbf07523b892c0e9b
 msgid ""
 "This is useful if you have some static element you want to only move when"
 " the model itself moves."
-msgstr ""
+msgstr "若您有希望僅隨模型本體移動的靜態元件，此功能將非常實用。"
 
 #: ../../creator/nodes/node.rst:42 ffc3d9d890e24a9aa3603fe89b66ee96
 msgid "Rotation"
-msgstr ""
+msgstr "旋轉"
 
 #: ../../creator/nodes/node.rst:44 1b89358968de4a30968c7218a2614259
 msgid "The rotation of the Node in degrees in 3D space."
-msgstr ""
+msgstr "以度（Degree）為單位，儲存此節點在 3D 空間中的旋轉度數。"
 
 #: ../../creator/nodes/node.rst:47 c1e4eb09e39546c992efcf84f7a34b65
 msgid "Scale"
-msgstr ""
+msgstr "縮放"
 
 #: ../../creator/nodes/node.rst:49 579b080e917d4dccbebfcf97daede0b7
 msgid ""
 "The scale of the Node, as Nodes are generally 2D objects in 3D space you "
 "can only scale them on the X and Y axis."
-msgstr ""
+msgstr "儲存此節點的縮放。節點通常是 2D 物件，因此在 3D 空間中只能依照 X 或 Y 方向縮放。"
 
 #: ../../creator/nodes/node.rst:52 1ac35bcb5cf248609fde2c8f647300b9
 msgid "Snap to Pixel"
-msgstr ""
+msgstr "對齊像素"
 
 #: ../../creator/nodes/node.rst:54 a33b1a520f9f4a0f90748c83a430f3d9
 msgid "Snaps the Node to the nearest pixel when moving."
-msgstr ""
+msgstr "當移動時，將節點與最相近的像素對齊。"
 
 #: ../../creator/nodes/node.rst:57 f846204043954ffea01e0ed696fce3f9
 msgid "Sorting"
-msgstr ""
+msgstr "排列"
 
 #: ../../creator/nodes/node.rst:59 7d9b7bcbdf34401f8518b84a011a497c
 msgid ""
 "The sorting index of the Node, smaller (and negative) numbers are closer "
 "to the camera, while bigger numbers are further away."
-msgstr ""
+msgstr "儲存此節點的排序索引，較小（及負）的數字較為靠近相機，相反的，較大的數字距離相機較遠。"
 
 #: ../../creator/nodes/node.rst:61 b28680a32345437da4aa2ac2290bc4f2
 msgid "This value is used to define what Part is drawn in what order."
-msgstr ""
+msgstr "此數值用於定義各部位的繪製順序。"
 

@@ -19,13 +19,13 @@ msgstr ""
 
 #: ../../inochi2d/about.rst:3 10b45c53028546908c882ba6f58a67c1
 msgid "About Inochi2D"
-msgstr ""
+msgstr "關於 Inochi2D"
 
 #: ../../inochi2d/about.rst:5 17cf7f04947f40ac920154a8cfbabf42
 msgid ""
 "Inochi2D is a library for realtime 2D puppet animation and the reference "
 "implementation of the Inochi2D Puppet standard."
-msgstr ""
+msgstr "Inochi2D 為一個即時模擬 2D 模型的程式庫及 Inochi2D 角色的參考實作 (reference implementation)。"
 
 #: ../../inochi2d/about.rst:6 dea96398b4084738acb57a01aff22a2d
 msgid ""
