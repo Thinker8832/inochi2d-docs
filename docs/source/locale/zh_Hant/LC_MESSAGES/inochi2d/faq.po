@@ -19,17 +19,17 @@ msgstr ""
 
 #: ../../inochi2d/faq.rst:3 e6bf82dfd3024af5b2a6b8cf38315b36
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "常見問答"
 
 #: ../../inochi2d/faq.rst:5 7cb9a590ffc34d9d81d0e426d3916368
 msgid ""
 "We get asked some questions often, we've compiled some of them and listed"
 " answers to them here."
-msgstr ""
+msgstr "我們常常被使用者詢問某些問題，我們將部分問題列在這裡並一一解答。"
 
 #: ../../inochi2d/faq.rst:8 6fd081fbcb1840c5b665601069c5c8cf
 msgid "How much does Inochi2D Cost?"
-msgstr ""
+msgstr "Inochi2D 要多少錢？"
 
 #: ../../inochi2d/faq.rst:10 df996f7912f64d4eafcb06527c45c9c5
 msgid ""
@@ -40,11 +40,15 @@ msgid ""
 "<https://patreon.com/LunaFoxgirlVT>`__ or `GitHub Sponsors "
 "<https://github.com/sponsors/LunaTheFoxgirl>`__, though this is "
 "completely optional."
-msgstr ""
+msgstr "**免錢**，Inochi2D 是免費及使用 BSD 2-clause 授權的軟體。你可以無償下載及使用此軟體。"
+"唯一的限制是你必須完整保留此軟體的授權條款。你可以 *選擇性* 透過 \\ `Patreon "
+"<https://patreon.com/LunaFoxgirlVT>`__\\  或 "
+"\\ `GitHub Sponsors <https://github.com/sponsors/LunaTheFoxgirl>`__\\ "
+" 贊助開發者進行開發。"
 
 #: ../../inochi2d/faq.rst:14 faabd8684b6049ec94ddf760e4393a4b
 msgid "Is Inochi2D ready for use?"
-msgstr ""
+msgstr "Inochi2D 是否已經準備好投入使用？"
 
 #: ../../inochi2d/faq.rst:16 050433ef7f0b4372b43e1126e590aafe
 msgid ""
@@ -53,11 +57,13 @@ msgid ""
 "evolving very quickly so we can't promise that it is ready for game "
 "development. Some of the tooling is still a work in progress and will be "
 "improved with time to be easier to use."
-msgstr ""
+msgstr "Inochi2D 及其配套工具目前仍在進行密集開發，雖然目前已可用於官方支援的情境，"
+"但由於版本更迭快速，我們目前無法保證其具備投入遊戲開發的可靠度。部分工具及功能仍在完善中，"
+"未來將持續優化以提升可靠性。"
 
 #: ../../inochi2d/faq.rst:21 5094600aa1734887aff5300f44b94eb0
 msgid "Can I load my PSD file in to Inochi Creator?"
-msgstr ""
+msgstr "我可以在 Inochi Creator 中載入我自己的 PSD 檔案嗎？"
 
 #: ../../inochi2d/faq.rst:22 a79aa0a883ce4c9b8f438c37dc0b9d33
 msgid ""
@@ -66,11 +72,13 @@ msgid ""
 "may load incorrectly (blending modes being applied wrong or layers being "
 "hidden that shouldn't) You may need to do some manual work setting "
 "blending modes and unhiding/hiding nodes in the node tree in that case."
-msgstr ""
+msgstr "可以。在檔案->匯入中，你可以匯入你自己的 Photoshop PSD 文件。需要注意的是，"
+"目前 PSD 支援還在開發階段，部分中繼資料 (Metadata) 可能會被錯誤引入（渲染模式應用錯誤或"
+"不應該隱藏的圖層被隱藏）。在這種情況下，你可能需要手動調整渲染模式及隱藏/顯示圖層。"
 
 #: ../../inochi2d/faq.rst:26 bb931c9f7de044f68ca92c0ab76bf9e3
 msgid "Can I use my existing Live2D models with Inochi2D?"
-msgstr ""
+msgstr "我可以在 Inochi2D 中使用我現有的 Live2D 模型嗎？"
 
 #: ../../inochi2d/faq.rst:27 f37ab5b2d44f452cb8f0d5db95ef404b
 msgid ""
@@ -78,21 +86,23 @@ msgid ""
 "level incompatible with Live2D. As such the model will have to be re-"
 "rigged for Inochi2D. Inochi2D should for the most part be compatible with"
 " PSDs cut for Live2D use, though."
-msgstr ""
+msgstr "不行。Inochi2D 是一個全新的開放格式，從底層架構上就與 Live2D 不同。"
+"因此，模型需要在 Inochi2D 中重新建模 (rigging)。不過，針對給 Live2D 使用的 PSD 拆件檔案，"
+"在大部分情況下應該還是可以與 Inochi2D 相容。"
 
 #: ../../inochi2d/faq.rst:30 39d149d4208f4022ad8958e9e2f51e0f
 msgid "What advantages does Inochi2D have over Live2D?"
-msgstr ""
+msgstr "Inochi2D 相比 Live2D 有什麼優勢？"
 
 #: ../../inochi2d/faq.rst:36 c89888ad76ef405cb890aff2c481af9f
 msgid "Inochi2D has multiple advantages, some still in development:"
-msgstr ""
+msgstr "Inochi2D 具有多個比 Live2d 好的功能，部分功能仍在開發中："
 
 #: ../../inochi2d/faq.rst:32 e988fcc7feff4e6eb34df564d1be8ed4
 msgid ""
 "Inochi2D is open source and has no licensing fees for integration in your"
 " project"
-msgstr ""
+msgstr "Inochi2D 是開源的，你不需要任何授權費就可以將其整合進您的專案中。"
 
 #: ../../inochi2d/faq.rst:33 9ee1c7a3441b4beea207eb10262d75b1
 msgid ""
@@ -100,14 +110,17 @@ msgid ""
 "you can add special rendering effects to your model at low rendering "
 "cost, such as eyes that glow in the dark, make your model react to "
 "lighting in a scene and more."
-msgstr ""
+msgstr "Inochi2D 原生支援渲染通道 (render passes) 中的多重紋理 (multi-texturing)，"
+"這表示您可以在低渲染成本下在你的模型中加入特別的渲染效果，例如會在暗部環境下發亮的眼睛、"
+"使你的模型隨環境光變色...等等。"
 
 #: ../../inochi2d/faq.rst:34 2b5981c0573d41d98aeb157766a72551
 msgid ""
 "Inochi2D is extensible, if you're a developer you can add new Node and "
 "Automation types to Inochi2D without breaking other applications that "
 "support Inochi2D."
-msgstr ""
+msgstr "Inochi2D 是可以擴充的。如果您是一位開發者，您可以在不影響其餘支援 Inochi2D "
+"的應用程式之下新增新節點及自動化。"
 
 #: ../../inochi2d/faq.rst:35 7b85a3e503a34d8aabfd9183e6aac35c
 msgid ""
@@ -115,28 +128,30 @@ msgid ""
 "format, this format additionally allows apps to save settings to your "
 "model, allowing those settings to transfer over if you move the model to "
 "a new computer."
-msgstr ""
+msgstr "Inochi2D 結合了所有必需的素材及數據在 INP 檔案中，這個檔案格式還允許應用程式"
+"儲存設定至您的模型中，進而讓你在不同的電腦中也可以存取設定。"
 
 #: ../../inochi2d/faq.rst:36 996e323491b14bdd96e8c72ab1b73e36
 msgid ""
 "Inochi2D is quite light on PC resources, while Inochi2D has not had a "
 "proper optimization pass yet the performance is already pretty decent. "
 "We'll be improving performance further over time as we get closer to 1.0."
-msgstr ""
+msgstr "Inochi2D 較不占用 PC 資源，雖然目前已有不錯的性能，但是目前版本的 Inochi2D 還缺乏良好的"
+"優化。隨著 1.0 版本接近，我們將會隨著時間提升性能。"
 
 #: ../../inochi2d/faq.rst:39 ab57b2644b1e439cb081e64b45bcb767
 msgid "Does Inochi2D support pre-defined animations?"
-msgstr ""
+msgstr "Inochi2D 支援預先設定的動畫嗎？"
 
 #: ../../inochi2d/faq.rst:41 8ff59f937037459cb0ef3a80748add8a
 msgid ""
 "From version 0.8 of Inochi2D you can create animations and save them to "
 "your model."
-msgstr ""
+msgstr "從 Inochi2D 0.8 版本開始，你可以製作動畫並將其儲存在您的模型中。"
 
 #: ../../inochi2d/faq.rst:44 1e7c124a639c4cb18ef1d8763532810b
 msgid "Does Inochi2D do face tracking?"
-msgstr ""
+msgstr "Inochi2D 有臉部追蹤功能嗎？"
 
 #: ../../inochi2d/faq.rst:46 963acd5516e248639a05162631e66d34
 msgid ""
@@ -144,11 +159,12 @@ msgid ""
 "official Inochi Session app and facetrack-d library provides you with the"
 " ability to use your Inochi2D puppet in conjunction with face tracking "
 "technologies."
-msgstr ""
+msgstr "Inochi2D 本身只是 2D 模型格式。官方的 Inochi Session 及 facetrack-d 函式庫"
+"可提供您使用臉部追蹤來操控 Inochi2D 模型。"
 
 #: ../../inochi2d/faq.rst:49 a171d53f771247f1a32991e65700dffb
 msgid "Why does text in Inochi Creator in X language look like question marks?"
-msgstr ""
+msgstr "為什麼 XXX 語言在 Inochi2D 中看起來像是一堆問號？"
 
 #: ../../inochi2d/faq.rst:51 8f97b2c343e34465920215b33e911ac4
 msgid ""
@@ -163,16 +179,21 @@ msgid ""
 " font shaping (eg. Arabic) as well as right-to-left languages currently "
 "due to ImGui limitations. If those limitations some day get solved we'll "
 "let you know."
-msgstr ""
+msgstr "Inochi Creator 使用 ImGUI 渲染 UI 介面。截至目前為止，ImGUI 仍尚未支援動態載入字符"
+"，且在軟體中一次載入世界上每一個語言的字型將會使其性能下降。在動態載入字符功能到位之前，英文及日文"
+"為主要支援的語言。翻譯者可能會提供翻譯之語言的字符與字型中繼資料檔案，但這些語言只會在 Inochi Creator "
+"設定成該語言時才會正確顯示。因 ImGUI 限制，目前 Inochi Creator 不支援諸如阿拉伯語等從右到左顯示的語言。"
+"當這些限制在以後的某日被解決，我們會通知您。"
 
 #: ../../inochi2d/faq.rst:56 19537750918541519544b293a52f5b13
 msgid "I would like to use Inochi2D for blockchain/web3/etc., is this supported?"
-msgstr ""
+msgstr "我想要在區塊鏈、Web 3.0...等等中使用 Inochi2D，請問 Inochi2D 支援嗎？"
 
 #: ../../inochi2d/faq.rst:58 aa1786507f434f2396cf034ed9638653
 msgid ""
 "*No*, and we're not interested in any \"projects\" using that technology."
 " We ask that you do not harass our team members and contributors about "
 "it, nor bring it up on our Discord."
-msgstr ""
+msgstr "*不支援*，且我們對於使用這些科技的任何\「專案」\沒有興趣。請不要用這些事騷擾團隊成員及貢獻者，"
+"也不要在 Discord 中提及這些。"
 

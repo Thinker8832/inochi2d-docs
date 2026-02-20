@@ -27,5 +27,5 @@ msgid ""
 "Due to a planned massive restructuring of Inochi Session, documentation "
 "for it will be sparse at the moment, sorry!"
 msgstr ""
-"由於目前 Inochi Session 正在進行大規模調整及改進，關於此軟體的文檔將會暫時沒有內容，抱歉！"
+"由於目前 Inochi Session 正在進行大規模調整及改進，此處將暫時沒有內容，非常抱歉！"
 

@@ -44,5 +44,5 @@ msgid ""
 "is done </creator/getting-started>` before continuing to the next "
 "section."
 msgstr ""
-"在開始之前，確認你已經\\ :doc:`安裝了Inochi Creator並設定完畢 </creator/getting-started>`\\。"
+"在開始之前，確認你已經\\ :doc:`安裝了 Inochi Creator 並設定完畢 </creator/getting-started>`\\。"
 

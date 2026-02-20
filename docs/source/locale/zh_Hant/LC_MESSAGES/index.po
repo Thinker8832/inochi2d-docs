@@ -35,7 +35,7 @@ msgstr ""
 
 #: ../../index.rst:97
 msgid "Technical Specification"
-msgstr ""
+msgstr "技術規範"
 
 #: ../../index.rst:3 62344dd21ec2443a8567ebddd91968bd
 msgid "Welcome to the Inochi2D Documentation"

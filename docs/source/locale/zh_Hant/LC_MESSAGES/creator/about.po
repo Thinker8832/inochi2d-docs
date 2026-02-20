@@ -33,8 +33,8 @@ msgid ""
 "perciving 3D depth in the 2D art."
 msgstr ""
 "Inochi Creator 是一個編輯 \\ `Inochi2D 角色格式 <https://github.com/Inochi2D/inochi2d>`_\\的開源編輯器，"
-"可以創造供遊戲或是 \\ `Vtuber <https://zh.wikipedia.org/wiki/VTuber>`_\\等使用的模型。"
-"動畫是透過即時變形、變換及其他扭曲分層 2D 紋理的方式來實現。這些扭曲效果能產生錯覺，使觀看者在 2D 藝術中感受到 3D 的空間深度。"
+"可以製作供遊戲或是 \\ `Vtuber <https://zh.wikipedia.org/wiki/VTuber>`_\\等使用的模型。"
+"透過即時變形、變換及其他扭曲分層 2D 紋理的方式，實現模型移動效果。這些扭曲效果能產生錯覺，使觀看者在 2D 藝術中感受到 3D 的空間深度。"
 
 #: ../../creator/about.rst:12 ade2d432c1e640eca808bc83063ca78b
 msgid ""

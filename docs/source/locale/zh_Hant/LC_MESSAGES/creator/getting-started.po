@@ -86,19 +86,19 @@ msgstr "支援 OpenGL 3.2 [#req_gl]_ 並包含 512MB VRAM"
 
 #: ../../creator/getting-started.rst:28 23a89e25a3f74338a15d61f9cf21c9b1
 msgid "OpenGL 3.2 Support [#req_gl]_, 1 GB VRAM or more"
-msgstr "支援 OpenGL 3.2 [#req_gl]_ 並包含 1GB以上 VRAM"
+msgstr "支援 OpenGL 3.2 [#req_gl]_ 並包含 1GB 以上的 VRAM"
 
 #: ../../creator/getting-started.rst:29 e755f9fa230e4e429770c1184ddff9d6
 msgid "Display Resolution (Pixels)"
-msgstr "螢幕解析度(像素)"
+msgstr "螢幕解析度（像素）"
 
 #: ../../creator/getting-started.rst:30 e4c6407e0ec7432b8b043382d156f3b1
 msgid "960x800"
-msgstr ""
+msgstr "960 x 800"
 
 #: ../../creator/getting-started.rst:31 426318ad78b54e12915e35c63b483b42
 msgid "1920x1080 or higher"
-msgstr "1920x1080 以上"
+msgstr "1920 x 1080 以上"
 
 #: ../../creator/getting-started.rst:33 7e924ab7a8cb42e9971b81c2da5c1630
 msgid ""
@@ -141,7 +141,7 @@ msgstr "\\ `GitHub <https://github.com/Inochi2D/inochi-creator/releases/latest>`
 
 #: ../../creator/getting-started.rst:50 0cc0643285d644208fa2b0d60486f287
 msgid "`Flathub <https://flathub.org/apps/details/com.inochi2d.inochi-creator>`__"
-msgstr "及\\ `Flathub <https://flathub.org/apps/details/com.inochi2d.inochi-creator>`_\\ 中下載。"
+msgstr "及 \\ `Flathub <https://flathub.org/apps/details/com.inochi2d.inochi-creator>`_\\ 中下載。"
 
 #: ../../creator/getting-started.rst:53 e67ace6253e4400d937d0f9651fb83ff
 msgid "**Nightly** is available to download on:"
@@ -187,7 +187,7 @@ msgid ""
 "can set some basic settings here like Color Theme, Language and UI "
 "Scaling [#ui_nomac]_."
 msgstr ""
-"第一次開啟 Inochi Creator 時，會有一個歡迎視窗，你可以在這裡設定主題、語言及 UI 大小。"
+"第一次開啟 Inochi Creator 時，會有一個歡迎視窗，你可以在這裡設定主題、語言及 UI 大小。[#ui_nomac]_"
 
 #: ../../creator/getting-started.rst:83 04ec7e51a66a44189ef57e742b1bd4a8
 msgid ""
@@ -195,7 +195,7 @@ msgid ""
 "first language you may change the language, by clicking the dropdown in "
 "the \"Language\" section"
 msgstr ""
-"Inochi Creator 支援多種語言，如果你不熟悉英文，可以在 \"Language\" 中修改。"
+"Inochi Creator 支援多種語言，如果你不熟悉英文，可以在\「Language」\中修改。"
 
 #: ../../creator/getting-started.rst:86 e9ce2b4418b34556b5a86315ab1350b6
 msgid ""

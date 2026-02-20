@@ -43,7 +43,7 @@ msgid ""
 "We'll be using the basic :doc:`Node </creator/nodes/node>` to build out "
 "this skeleton, which will make some rigging easier later."
 msgstr ""
-"我們會使用\\ :doc:`節點 (Node) </creator/nodes/node>`\\來建立骨架，這會讓我們等等捏造模型更容易。"
+"我們會使用\\ :doc:`節點 (Node) </creator/nodes/node>`\\  來建立骨架，這會讓我們等等捏造模型更容易。"
 
 #: ../../creator/first-model/tutorial02.rst:15 48930548dc3a48fb9e898857b774222a
 msgid "Creating our skeleton"
@@ -86,7 +86,7 @@ msgid ""
 " the node tree. We should probably rename it so that it's easier to to "
 "know what it does at a glance."
 msgstr ""
-"當我們新增完節點之後，你會看到它在模型中的名字為\"未命名 節點\"。"
+"當我們新增完節點之後，你會看到它在模型中的名字為\「未命名 節點」\。"
 "我們應該重新命名它，以便我們在之後製作時知道它代表什麼。"
 
 #: ../../creator/first-model/tutorial02.rst:52 b3491299ce8d48738ca74accd2b152f6
@@ -94,11 +94,11 @@ msgid ""
 "Click the node and within the Inspector panel, rename the node to \"Neck "
 "Root\""
 msgstr ""
-"點擊節點，在下方的檢視器中重新命名節點為\\ "Neck Root"\\。"
+"點擊節點，在下方的檢視器中重新命名節點為\「Neck Root」\。"
 
 #: ../../creator/first-model/tutorial02.rst:58 3f31dd0f6ac4482ba2e5bd747f8d0aa8
 msgid "3. Transforming a Node"
-msgstr "3. 變形（Transforming）節點"
+msgstr "3. 變形 (Transforming) 節點"
 
 #: ../../creator/first-model/tutorial02.rst d57ab04f8a3644d289638c2d4f005bbf
 msgid ""
@@ -127,7 +127,7 @@ msgid ""
 "pointing in 4 directions) or by editing the Translation section in the "
 "Inspector, move Neck Root to the bottom of the neck."
 msgstr ""
-"按住移動標誌（長得像箭頭指向四個方向）或者改變檢視器中 \"移動\"的數字，將節點移動到脖子的底部。"
+"按住移動標誌（長得像箭頭指向四個方向）或者改變檢視器中 \「移動」\的數字，將節點移動到脖子的底部。"
 
 #: ../../creator/first-model/tutorial02.rst:88 54fcce0846944021af0a219f1e66412e
 msgid "4. Finishing the basic Layout"
@@ -181,7 +181,7 @@ msgid ""
 " (3rd box in the Rotation section or using the rotate Gizmo), notice that"
 " all the children of the Neck Root rotate with it!"
 msgstr ""
-"現在你可以選擇 Neck Root 節點並試著旋轉它（檢視器中 \"旋轉\"欄位或者節點旁邊的旋轉控制軸）"
+"現在你可以選擇 Neck Root 節點並試著旋轉它（檢視器中 \「旋轉」\欄位或者節點旁邊的旋轉控制軸）"
 "你可以發現所有子節點都會跟著一起轉動！"
 
 #: ../../creator/first-model/tutorial02.rst 76b5bb5490704d80bf31ac6b4ff910b8

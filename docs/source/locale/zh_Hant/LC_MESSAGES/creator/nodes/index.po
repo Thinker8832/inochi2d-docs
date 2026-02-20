@@ -27,7 +27,7 @@ msgid ""
 "Inochi2D is based of a concept called a `Scene Graph "
 "<https://en.wikipedia.org/wiki/Scene_graph>`__."
 msgstr ""
-"Inochi2D 是根據\\ `場景圖(Scene Graph) <https://en.wikipedia.org/wiki/Scene_graph>`__\\的概念製作的。"
+"Inochi2D 是根據\\ `場景圖 (Scene Graph) <https://en.wikipedia.org/wiki/Scene_graph>`__\\  的概念製作的。"
 
 #: ../../creator/nodes/index.rst:15 23e9f92b1b5b417db77d7544ea604104
 msgid ""
@@ -35,7 +35,7 @@ msgid ""
 "or 3D modeling software such as Blender you may already be familiar with "
 "the concept!"
 msgstr ""
-"如果以以前有使用過現代遊戲引擎像是 Godot、Unity、Unreal Engine "
+"如果你以前有使用過現代遊戲引擎像是 Godot、Unity、Unreal Engine "
 "或者是 3D 建模軟體例如 Blender，你可能會知道這個概念！"
 
 #: ../../creator/nodes/index.rst:17 26bc17ebb54947c3834f3c1dae2c4fcf
@@ -62,15 +62,15 @@ msgid ""
 " information about the position, rotation, scale and sorting index of the"
 " node."
 msgstr ""
-"每個節點都具備共通的 Transform（變換）概念。Transform 包含了該節點的位置、旋轉、縮放以及排序索引等資訊。"
+"每個節點都具備共通的「變換」(Transform) 概念。「變換」包含了該節點的位置、旋轉、縮放以及排序索引等資訊。"
 
 #: ../../creator/nodes/index.rst:31 e6044dcf129d46a88ede90f8683dc1c4
 msgid ""
 "A node which is attached to another node is called a *child Node*, and "
 "the Node which the child is attached to is called the *parent Node*."
 msgstr ""
-"連接到另一個節點的節點稱為『子節點』（child Node），"
-"而該子節點所連接的對象則稱為『父節點』（parent Node）。"
+"連接到另一個節點的節點稱為「子節點」(Child Node)，"
+"而該子節點所連接的對象則稱為「父節點」(Parent Node)。"
 
 #: ../../creator/nodes/index.rst:33 7d85c81d79464c9a913d6866e45fca2f
 msgid ""
